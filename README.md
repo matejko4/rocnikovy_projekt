@@ -58,18 +58,6 @@
 
 ---
 
-## 🧱 Databázový systém
-- Databáze ukládá:
-  - uživatele  
-  - týmy  
-  - role uživatelů v týmech  
-  - tréninky a účast  
-  - zápasy a statistiky  
-  - notifikace  
-  - historii změn  
-
----
-
 ## 🎯 Shrnutí
 - Aplikace představuje komplexní systém pro správu sportovních týmů s podporou více týmů na jednoho uživatele a rolového přístupu.  
 - Součástí je správa tréninků, zápasů a uživatelských interakcí včetně potvrzování účasti a sdílení materiálů.  
